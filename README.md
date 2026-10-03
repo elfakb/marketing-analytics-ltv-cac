@@ -10,11 +10,12 @@ Which marketing campaigns create *profitable, repeat* customers, not just clicks
 
 ## Dashboard
 
-![Overview](docs/screenshots/overview.png)
+<img width="1449" height="823" alt="Ekran Resmi 2026-10-04 00 44 30" src="https://github.com/user-attachments/assets/0eb34588-a7c0-40b9-b4fc-73f29b54c3a7" />
+<img width="1449" height="823" alt="Ekran Resmi 2026-10-04 00 44 37" src="https://github.com/user-attachments/assets/e62df69a-ff29-4552-b1f8-5f0d54012880" />
+<img width="1449" height="823" alt="Ekran Resmi 2026-10-04 00 44 59" src="https://github.com/user-attachments/assets/aaea9baa-40f7-4a7f-904a-7c7c541b1a7a" />
 
-| Channels | Campaigns | Segments |
-|---|---|---|
-| ![Channels](docs/screenshots/channels.png) | ![Campaigns](docs/screenshots/campaigns.png) | ![Segments](docs/screenshots/segments.png) |
+<img width="1449" height="823" alt="Ekran Resmi 2026-10-04 00 45 05" src="https://github.com/user-attachments/assets/61c220dd-bec3-4e21-8abf-4a7595f3b5b7" />
+
 
 ## Key findings (FY2025, TRY)
 
