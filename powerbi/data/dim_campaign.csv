@@ -1,0 +1,14 @@
+campaign_id,channel,campaign_name,objective
+EM01,Email,Welcome Series,Acquisition
+EM02,Email,Newsletter,Retention
+EM03,Email,Winback,Retention
+GG01,Google,Search - Brand,Acquisition
+GG02,Google,Search - Generic,Acquisition
+GG03,Google,Shopping,Acquisition
+MT01,Meta,Prospecting,Acquisition
+MT02,Meta,Lookalike,Acquisition
+MT03,Meta,Retargeting,Retargeting
+OR01,Organic,SEO,Organic
+OR02,Organic,Social Organic,Organic
+TT01,TikTok,Spark Ads,Acquisition
+TT02,TikTok,Influencer Collab,Acquisition

@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+.ipynb_checkpoints/
+.DS_Store
+# generated database (rebuild with `make marts`)
+data/processed/marketing.db
